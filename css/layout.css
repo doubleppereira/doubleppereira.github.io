@@ -655,7 +655,7 @@ call-to-action .button {
    background-attachment: fixed;
 
    position: relative;
-   min-height: 200px;
+   min-height: 300px;
    width: 100%;
    overflow: hidden;
 }
