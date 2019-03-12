@@ -334,12 +334,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 3s ease;
 }
 .net {
-  	width: 75%;
+  	width: 80%;
   	-moz-animation: photoshop 3s ease;
   	-webkit-animation: photoshop 3s ease;
 }
 .javascript {
-  	width: 70%;
+  	width: 90%;
   	-moz-animation: illustrator 3s ease;
   	-webkit-animation: illustrator 3s ease;
 }
@@ -438,7 +438,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns, #portfolio-wrapper2 .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
