@@ -329,12 +329,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .c {
-  	width: 90%;
+  	width: 60%;
   	-moz-animation: c-animation 3s ease;
   	-webkit-animation: c-animation 3s ease;
 }
 .net {
-  	width: 80%;
+  	width: 60%;
   	-moz-animation: net-animation 3s ease;
   	-webkit-animation: net-animation 3s ease;
 }
@@ -366,11 +366,11 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes c-animation {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes net-animation {
    0%   { width: 0px;  }
-   100% { width: 80%;  }
+   100% { width: 60%;  }
 }
 @-moz-keyframes react-animation {
    0%   { width: 0px;  }
@@ -395,11 +395,11 @@ ul#nav li.current a { color: #F06000; }
 
 @-webkit-keyframes c-animation {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes net-animation {
    0%   { width: 0px;  }
-   100% { width: 80%;  }
+   100% { width: 60%;  }
 }
 @-webkit-keyframes react-animation {
    0%   { width: 0px;  }
