@@ -1,0 +1,204 @@
+{
+  "main": {
+    "name": "Pedro Pereira",
+    "description": "I'm a software engineer from Portugal creating awesome and effective applications for companies of all sizes.",
+    "image": "profilepic.jpg",
+    "bio": "I am a \"Full Stack\" Software Engineer currently living in Penafiel, Porto, Portugal. <br/> My background comes from .Net and C# but I currently am working more in the Frontend with React JS, Redux and Typescript and having a good exposure to CI/CD and AWS.",
+    "contactmessage": "Please feel free to contact me via mail or fill the form below.",
+    "email": "doublep.rafael@gmail.com",
+    "phone": "(+351) 911065461",
+    "github": "https://github.com/doubleppereira",
+    "project": "",
+    "address": {
+      "street": "Penafiel",
+      "city": "Penafiel, Porto, Portugal",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://doubleppereira.github.io/",
+    "resumedownload": "https://drive.google.com/uc?id=1eY3wQbX2QsSObG19hIdnI74YGOeI_dy1&export=download",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/pedro.r.pereira.50/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/oizie",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pedro-pereira-b2b04236",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/doubleppereira",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "description": "I consider Pedro as an outstanding Software Developer. Worked with him at HIS and I found him very focused and dedicated to work. He is highly skilled and is always eager to help anyone when needed. His enthusiastic spirit and constant positive attitude makes the difference. He is a valuable member to any team!",
+      "name": "Tiago Ferreira",
+      "position": "Consultant at European Commission"
+    },
+    {
+      "description": "I had the opportunity to work with Pedro on multiple Windows / Windows Phone projects. He is an intelligent engineer with very strong problem solving skills. Efficient, result driven and experienced. I would highly recommend him as a Software Developer.",
+      "name": "Gábor Tóth",
+      "position": "Software Engineer at EPAM Systems"
+    }
+  ],
+  "resume": {
+    "skillmessage": "These are my main overall dev skills.",
+    "education": [
+      {
+        "school": "Instituto de Engenharia de Coimbra",
+        "degree": "Bachelors Software Engineering",
+        "graduated": "Sep 2009",
+        "description": "Bachelor Degree with score 15 (0-20)."
+      }
+    ],
+    "work": [
+      {
+        "company": "Stablehouse",
+        "title": "Senior Software Developer",
+        "years": "Jun 2022 - Present",
+        "description": "Worked in different features in web application, mobile application and revamped public website. Development in ReactJS, ReactNative, Typescript."
+      },
+      {
+        "company": "Olx Group",
+        "title": "Senior Software Developer",
+        "years": "Jun 2021 - May 2022",
+        "description": "Working in muliple domains in the Motors Department. Worked in developing solutions promoting areas for New Revenues and engagement with Business Clients. Development in ReactJS, Typescript, NextJS."
+      },
+      {
+        "company": "LetsGetChecked",
+        "title": "Software Developer",
+        "years": "Mar 2021 - Jun 2021",
+        "description": "Development from scratch of a SSG site in gatsby. Development of reusable components in ReactJS, Typescript, X-State."
+      },
+      {
+        "company": "Rows",
+        "title": "Senior Software Developer",
+        "years": "Sep 2019 - Feb 2021",
+        "description": "Development of a Web Application using JS, ReactJS, Mobx and GraphQL."
+      },
+      {
+        "company": "Pear Tree Software LTD",
+        "title": "Founder - Senior Software Developer",
+        "years": "Feb 2016 - Aug 2019",
+        "description": "Founded Company to provide software consultancy.<br/>Worked as contractor in multiple companies like Activision, Demonware, AON, EasyTrip Tech stack: C#, ReactJS, NodeJS, Asp.Net Core, Javascript, SQL Server & T-SQL"
+      },
+      {
+        "company": "eMaint",
+        "title": "Senior Application Developer",
+        "years": "Jan 2015 - Feb 2016",
+        "description": "Tech stack: C#, Asp.Net MVC5, Javascript, AngularJS, ReactJS, WebApi, SQL Server & T-SQL, Git"
+      },
+      {
+        "company": "MobileAware",
+        "title": "Lead Windows Phone Developer ",
+        "years": "Jan 2014 - Dec 2014",
+        "description": "Develop Tesco Mobile app and build a UI Library to be reused in many projects. Tech stack: C#, MVVM, Windows Platform, Git"
+      },
+      {
+        "company": "Pixalert",
+        "title": "Contract Software Developer",
+        "years": "Jul 2013 - Dec 2013",
+        "description": "Tech stack: C#, Asp.Net MVC3, Javascript, WebApi, SQL Server & T-SQL, Git"
+      },
+      {
+        "company": "ISA",
+        "title": "Software Developer",
+        "years": "Jun 2012 - Jul 2013",
+        "description": "Worked in the energy sector. Tech stack: C#, Asp.Net MVC3, Silverlight, Javascript, WebApi, SQL, Server & T-SQL, Svn"
+      },
+      {
+        "company": "INFOS",
+        "title": "Software Developer",
+        "years": "March 2011 - Jun 2012",
+        "description": "Worked in retail market. Tech stack: C#, MVVM, WCF, WPF, SQL Server & T-SQL, Svn"
+      },
+      {
+        "company": "HIS",
+        "title": "WPF Software Developer",
+        "years": "Sep 2009 - March 2011 ",
+        "description": "Worked on health software for hospitals and small health units to provide generation of prescriptions, patients reports and etc. Tech stack: C#, MVVM, WCF, WPF, SQL Server & T-SQL, Svn"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "JS",
+        "level": "90%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      },
+      {
+        "name": "Html",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "C#",
+        "level": "60%"
+      },
+      {
+        "name": ".Net",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tesco Mobile",
+        "category": "Tesco Mobile - Windows Phone",
+        "image": "tesco.png",
+        "url": "https://www.microsoft.com/en-us/p/tesco-mobile/9wzdncrdm1b6"
+      },
+      {
+        "title": "Standvirtual",
+        "category": "#1 Website for selling and buying used and new cars in Portugal",
+        "image": "standvirtual_logo.svg",
+        "url": "https://www.standvirtual.com/"
+      },
+      {
+        "title": "Rows",
+        "category": "Rows - Web Application",
+        "image": "rows.svg",
+        "url": "https://www.rows.com/"
+      },
+      {
+        "title": "Easytrip",
+        "category": "A React based resume website template",
+        "image": "easytrip.png",
+        "url": "https://www.easytrip.ie/"
+      },
+      {
+        "title": "Cloogy web app",
+        "category": "Moved to cleanwatts now",
+        "image": "cloogy.png",
+        "url": "http://www.cloogy.com/en/"
+      },
+      {
+        "title": "Emaint web app",
+        "category": "Development of the CMMS application that would manage resources and work orders in a business.",
+        "image": "eMaintLogo.png",
+        "url": "http://www.emaint.com/cmms-features-benefits/"
+      }
+    ]
+  }
+}
