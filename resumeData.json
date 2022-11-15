@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Pedro Pereira",
-    "description": "I'm a software engineer from Portugal creating awesome and effective applications for companies of all sizes.",
+    "description": "I'm a software engineer from Portugal creating software solutions for companies of all sizes",
     "image": "profilepic.jpg",
     "bio": "I am a \"Full Stack\" Software Engineer currently living in Penafiel, Porto, Portugal. \n My background comes from .Net and C# but I currently am working more in the Frontend with React JS, Redux and Typescript and having a good exposure to CI/CD and AWS.",
     "contactmessage": "Please feel free to contact me via mail or fill the form below.",
