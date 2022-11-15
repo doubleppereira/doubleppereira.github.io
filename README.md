@@ -1,6 +1,6 @@
 # React Pedro Resume :page_with_curl:
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### [LIVE](https://doubleppereira.github.io/)
 
 ![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
 

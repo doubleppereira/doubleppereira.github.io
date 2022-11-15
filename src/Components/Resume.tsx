@@ -31,7 +31,7 @@ const Resume: React.FC<ResumeProps> = ({ data }) => {
           {work.title}
           <span>&bull;</span> <em className="date">{work.years}</em>
         </p>
-        <p>{work.description}</p>
+        <p className="work-description">{work.description}</p>
       </div>
     );
   });
