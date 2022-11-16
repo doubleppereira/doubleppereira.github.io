@@ -22,7 +22,7 @@ const About: React.FC<AboutProps> = ({ data }) => {
     <section id="about">
       <Fade duration={1000}>
         <div className="row">
-          <div className="three columns">
+          <div className="three columns flex">
             <img className="profile-pic" src={profilepic} alt="My Pic" />
           </div>
           <div className="nine columns main-col">
