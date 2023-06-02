@@ -64,9 +64,15 @@
     ],
     "work": [
       {
+        "company": "Teya",
+        "title": "Software Developer",
+        "years": "Apr 2023 - Present",
+        "description": "Worked in Onboarding app used by internal sales agents to onboard new customers. \nTech stack: ReactJS, NextJS, Typescript."
+      },
+      {
         "company": "Stablehouse",
         "title": "Senior Software Developer",
-        "years": "Jun 2022 - Present",
+        "years": "Jun 2022 - Apr 2023",
         "description": "Worked in different features in web application, mobile application and revamped public website. \nTech stack: ReactJS, ReactNative, Typescript."
       },
       {
