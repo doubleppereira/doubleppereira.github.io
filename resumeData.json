@@ -64,9 +64,15 @@
     ],
     "work": [
       {
+        "company": "Lukso",
+        "title": "Senior Software Developer - Dapps",
+        "years": "Oct 2023 - Present",
+        "description": "Work on Lukso DApps. \nTech stack: ReactJS, NextJS, VueJS, NestJS, NodeJS, Typescript."
+      },
+      {
         "company": "Teya",
         "title": "Software Developer",
-        "years": "Apr 2023 - Present",
+        "years": "Apr 2023 - Oct 2023",
         "description": "Worked in Onboarding app used by internal sales agents to onboard new customers. \nTech stack: ReactJS, NextJS, Typescript."
       },
       {
@@ -198,6 +204,20 @@
         "category": "Development of the CMMS application that would manage resources and work orders in a business.",
         "image": "eMaintLogo.png",
         "url": "http://www.emaint.com/cmms-features-benefits/"
+      },
+      {
+        "title": "Lukso - My Universal Profile",
+        "category": "Development of the Dapp that connects to the Lukso Blockchain and does transactions to create and recover Universal Profiles on the chain.",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*SHhSd7xWCWLp4FRWGAt-kQ.png",
+        "url": "https://my.universalprofile.cloud/",
+        "isExternalImage": true
+      },
+      {
+        "title": "Lukso - Wallet",
+        "category": "Development of the Dapp that connects to the Lukso Blockchain and does transactions to check wallet balance and Digital assets.",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*SHhSd7xWCWLp4FRWGAt-kQ.png",
+        "url": "https://wallet.universalprofile.cloud/",
+        "isExternalImage": true
       }
     ]
   }
