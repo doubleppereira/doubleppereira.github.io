@@ -34,6 +34,7 @@ declare global {
     category: string;
     image: string;
     url: string;
+    isExternalImage?: boolean;
   }
 
   interface Portfolio {

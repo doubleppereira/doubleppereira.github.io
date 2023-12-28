@@ -10,7 +10,9 @@ const Portfolio: React.FC<PortfolioProps> = ({ data }) => {
   if (!data) return null;
 
   const projects = data.projects.map((projects, index) => {
-    let projectImage = 'images/portfolio/' + projects.image;
+    let projectImage = projects.isExternalImage
+      ? projects.image
+      : 'images/portfolio/' + projects.image;
 
     return (
       <div key={index} className="columns portfolio-item">
