@@ -73,19 +73,19 @@
         "company": "Teya",
         "title": "Software Developer",
         "years": "Apr 2023 - Oct 2023",
-        "description": "Worked in Onboarding app used by internal sales agents to onboard new customers. \nTech stack: ReactJS, NextJS, Typescript."
+        "description": "Worked in Onboarding app used by internal sales agents to onboard new customers. \nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
       },
       {
         "company": "Stablehouse",
         "title": "Senior Software Developer",
         "years": "Jun 2022 - Apr 2023",
-        "description": "Worked in different features in web application, mobile application and revamped public website. \nTech stack: ReactJS, ReactNative, Typescript."
+        "description": "Worked in different features in web application, mobile application and revamped public website. \nTech stack: ReactJS, ReactNative, Node.JS, C#, ASP.Net Core, .Net 7, NUnit, Typescript."
       },
       {
         "company": "Olx Group",
         "title": "Senior Software Developer",
         "years": "May 2021 - May 2022",
-        "description": "Working in muliple domains in the Motors Department. Worked in developing solutions promoting areas for New Revenues and engagement with Business Clients. \nTech stack: ReactJS, Typescript, NextJS."
+        "description": "Working in muliple domains in the Motors Department. Worked in developing solutions promoting areas for New Revenues and engagement with Business Clients. \nTech stack: ReactJS, Typescript, NextJS, PHP."
       },
       {
         "company": "Rows",
