@@ -67,7 +67,7 @@
         "company": "Lukso",
         "title": "Senior Software Developer - Dapps",
         "years": "Oct 2023 - Present",
-        "description": "Work on Lukso DApps. \nTech stack: ReactJS, NextJS, VueJS, NestJS, NodeJS, Typescript."
+        "description": "Development and maintenance of my.universalprofile.cloud Dapp.\nImplemented create and recovery flow on Lukso network.\nMaintainer of WebComponents library for Lukso using lit, lit-html and Typescript\nDevelopment of some new features on the mobile UP wallet for IOS and Android in React Native \nTech stack: ReactJS, ReactNative, Expo, NextJS, VueJS, NestJS, NodeJS, Typescript, lit, lit-html."
       },
       {
         "company": "Teya",
