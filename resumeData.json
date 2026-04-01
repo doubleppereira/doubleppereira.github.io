@@ -64,9 +64,21 @@
     ],
     "work": [
       {
+        "company": "YLD",
+        "title": "Senior Software Developer - Dapps",
+        "years": "July 2025 - Present",
+        "description": "Worked on YLD projects and their clients on fintech focussed projects including crypto, trading, etc. \nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
+      },
+      {
+        "company": "Lukso",
+        "title": "Senior Software Developer - Dapps - Part-time",
+        "years": "July 2025 - Feb 2026",
+        "description": "Maintaing the Onboarding app on hourly basis and doing some improvements and bug fixes. \nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
+      },
+      {
         "company": "Lukso",
         "title": "Senior Software Developer - Dapps",
-        "years": "Oct 2023 - Present",
+        "years": "Oct 2023 - July 2025",
         "description": "Development and maintenance of my.universalprofile.cloud Dapp.\nImplemented create and recovery flow on Lukso network.\nMaintainer of WebComponents library for Lukso using lit, lit-html and Typescript\nDevelopment of some new features on the mobile UP wallet for IOS and Android in React Native \nTech stack: ReactJS, ReactNative, Expo, NextJS, VueJS, NestJS, NodeJS, Typescript, lit, lit-html."
       },
       {
