@@ -130,14 +130,38 @@
       }
     ],
     "skills": [
-      { "name": "ReactJS", "level": "90%" },
-      { "name": "JavaScript", "level": "90%" },
-      { "name": "TypeScript", "level": "80%" },
-      { "name": "HTML / CSS", "level": "80%" },
-      { "name": "Node.js / NestJS", "level": "75%" },
-      { "name": "React Native", "level": "70%" },
-      { "name": "C# / .NET", "level": "65%" },
-      { "name": "NextJS", "level": "80%" }
+      {
+        "category": "Frontend",
+        "items": ["ReactJS", "NextJS", "TypeScript", "VueJS / Nuxt", "TanStack Query", "GraphQL", "Redux"]
+      },
+      {
+        "category": "Backend",
+        "items": ["NodeJS", "NestJS", "ASP.Net", "C#", "Python"]
+      },
+      {
+        "category": "Web3",
+        "items": ["Viem", "Wagmi", "Web3.js", "Solidity"]
+      },
+      {
+        "category": "Mobile",
+        "items": ["React Native", "Expo"]
+      },
+      {
+        "category": "Testing",
+        "items": ["Jest", "Playwright", "TDD", "Integration Testing"]
+      },
+      {
+        "category": "Databases",
+        "items": ["PostgreSQL", "MongoDB", "Redis", "SQL Server"]
+      },
+      {
+        "category": "DevOps & Tooling",
+        "items": ["Docker", "Kubernetes", "GitHub Actions", "Nx Monorepos", "Vercel"]
+      },
+      {
+        "category": "Leadership",
+        "items": ["Mentorship", "Cross-team Architecture", "Design System Ownership", "Technical Decision-making"]
+      }
     ]
   },
   "portfolio": {

@@ -1,5 +1,5 @@
 interface SkillsProps {
-  skills: Skill[];
+  skills: SkillGroup[];
 }
 
 const Skills = ({ skills }: SkillsProps) => {
@@ -10,18 +10,18 @@ const Skills = ({ skills }: SkillsProps) => {
         <h2>My toolkit</h2>
       </div>
       <div className="skills-grid">
-        {skills.map((s, i) => {
-          const pct = parseInt(s.level, 10);
+        {skills.map((group, i) => {
           const delay = `reveal-delay-${Math.min(i % 4, 3)}`;
           return (
-            <div key={s.name} className={`skill-item reveal ${delay}`}>
-              <div className="skill-top">
-                <span className="skill-name">{s.name}</span>
-                <span className="skill-pct">{s.level}</span>
-              </div>
-              <div className="skill-bar">
-                <div className="skill-fill" data-pct={pct} />
-              </div>
+            <div key={group.category} className={`skill-group reveal ${delay}`}>
+              <div className="skill-group-label">{group.category}</div>
+              <ul className="skill-tags">
+                {group.items.map((item) => (
+                  <li key={item} className="skill-tag">
+                    {item}
+                  </li>
+                ))}
+              </ul>
             </div>
           );
         })}

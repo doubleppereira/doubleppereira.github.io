@@ -51,15 +51,15 @@ declare global {
     description: string;
   }
 
-  interface Skill {
-    name: string;
-    level: string;
+  interface SkillGroup {
+    category: string;
+    items: string[];
   }
 
   interface ResumeInfo {
     education: Education[];
     work: Work[];
-    skills: Skill[];
+    skills: SkillGroup[];
   }
 
   interface ResumeData {

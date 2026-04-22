@@ -7,12 +7,6 @@ const RevealOnScroll = () => {
         entries.forEach((e) => {
           if (!e.isIntersecting) return;
           e.target.classList.add('visible');
-          const target = e.target as HTMLElement;
-          const bar = target.querySelector<HTMLElement>('.skill-fill');
-          if (bar) {
-            const pct = bar.dataset.pct;
-            if (pct) bar.style.width = `${pct}%`;
-          }
           io.unobserve(e.target);
         });
       },
