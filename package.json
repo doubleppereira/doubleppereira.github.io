@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "./",
   "dependencies": {
+    "@calcom/embed-react": "^1.5.3",
     "@emailjs/browser": "^3.9.0",
     "anix": "^1.3.6",
     "jquery": "^3.6.0",

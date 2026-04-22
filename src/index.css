@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: oklch(0.1 0.012 60);
+  --bg2: oklch(0.14 0.01 60);
+  --bg3: oklch(0.18 0.01 60);
+  --text: oklch(0.94 0.01 80);
+  --muted: oklch(0.52 0.01 80);
+  --accent: #7666f0;
+  --border: oklch(0.22 0.01 60);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Instrument Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+@media (pointer: fine) {
+  body {
+    cursor: none;
+  }
+}

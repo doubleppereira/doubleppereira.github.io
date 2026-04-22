@@ -1,38 +1,27 @@
-import React from 'react';
-import { Carousel } from 'react-responsive-carousel';
-
 interface TestimonialsProps {
-  data: Testimonial[];
+  testimonials: Testimonial[];
 }
 
-const Testimonials: React.FC<TestimonialsProps> = ({ data }) => {
-  if (!data) return null;
-
-  const testimonials = data.map((testimonial, index) => (
-    <div key={'user_' + index}>
-      <blockquote>
-        <p>{testimonial.description}</p>
-        <cite>
-          {testimonial.name} - {testimonial.position}
-        </cite>
-      </blockquote>
-    </div>
-  ));
+const Testimonials = ({ testimonials }: TestimonialsProps) => {
+  if (!testimonials?.length) return null;
 
   return (
-    <section id="testimonials">
-      <div className="text-container">
-        <div className="row">
-          <div className="two columns header-col">
-            <h1>
-              <span>Testimonials</span>
-            </h1>
+    <section className="testimonials" id="testimonials">
+      <div className="section-header reveal">
+        <span className="section-number">05 — Testimonials</span>
+        <h2>Kind words</h2>
+      </div>
+      <div className="testimonials-grid">
+        {testimonials.map((t, i) => (
+          <div
+            key={t.name}
+            className={`testimonial-card reveal reveal-delay-${i}`}
+          >
+            <div className="testimonial-quote">{t.description}</div>
+            <div className="testimonial-name">{t.name}</div>
+            <div className="testimonial-pos">{t.position}</div>
           </div>
-
-          <div className="ten columns flex-container">
-            <Carousel autoPlay>{testimonials}</Carousel>
-          </div>
-        </div>
+        ))}
       </div>
     </section>
   );

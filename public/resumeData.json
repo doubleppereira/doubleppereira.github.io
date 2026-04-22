@@ -4,39 +4,21 @@
     "description": "I'm a software engineer from Portugal creating software solutions for companies of all sizes",
     "image": "profilepic.jpg",
     "bio": "Experienced Software Engineer with 14 years in software development. Strong analytical and creative skills. Detail-oriented team player with expertise in Frontend development and a solid Full-Stack background. Experienced in Backend, Mobile, and Cloud development.",
-    "contactmessage": "Please feel free to contact me via mail or fill the form below.",
     "email": "doublep.rafael@gmail.com",
     "phone": "(+351) 911065461",
     "github": "https://github.com/doubleppereira",
-    "project": "",
-    "address": {
-      "street": "Penafiel",
-      "city": "Penafiel, Porto, Portugal",
-      "state": "",
-      "zip": ""
-    },
     "website": "https://doubleppereira.github.io/",
     "resumedownload": "https://drive.google.com/file/d/1qLFgnbkKjESldi02zCuR91vZY8vvyKqE/view?usp=sharing",
+    "calUsername": "pedro-r-pereira",
+    "calEvent": "",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/pedro.r.pereira.50/",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/oizie",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/pedro-pereira-b2b04236",
-        "className": "fa fa-linkedin"
+        "url": "https://www.linkedin.com/in/pedro-pereira-b2b04236"
       },
       {
         "name": "github",
-        "url": "https://github.com/doubleppereira",
-        "className": "fa fa-github"
+        "url": "https://github.com/doubleppereira"
       }
     ]
   },
@@ -53,7 +35,6 @@
     }
   ],
   "resume": {
-    "skillmessage": "These are my main overall dev skills.",
     "education": [
       {
         "school": "Instituto de Engenharia de Coimbra",
@@ -66,170 +47,130 @@
       {
         "company": "YLD",
         "title": "Senior Software Developer - Dapps",
-        "years": "July 2025 - Present",
-        "description": "Worked on YLD projects and their clients on fintech focussed projects including crypto, trading, etc. \nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
+        "years": "July 2025 – Present",
+        "description": "Fintech-focused projects including crypto and trading.\nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
       },
       {
         "company": "Lukso",
-        "title": "Senior Software Developer - Dapps - Part-time",
-        "years": "July 2025 - Feb 2026",
-        "description": "Maintaing the Onboarding app on hourly basis and doing some improvements and bug fixes. \nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
+        "title": "Senior Software Developer - Dapps (Part-time)",
+        "years": "July 2025 – Feb 2026",
+        "description": "Maintaining the Onboarding app with improvements and bug fixes.\nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
       },
       {
         "company": "Lukso",
         "title": "Senior Software Developer - Dapps",
-        "years": "Oct 2023 - July 2025",
-        "description": "Development and maintenance of my.universalprofile.cloud Dapp.\nImplemented create and recovery flow on Lukso network.\nMaintainer of WebComponents library for Lukso using lit, lit-html and Typescript\nDevelopment of some new features on the mobile UP wallet for IOS and Android in React Native \nTech stack: ReactJS, ReactNative, Expo, NextJS, VueJS, NestJS, NodeJS, Typescript, lit, lit-html."
+        "years": "Oct 2023 – July 2025",
+        "description": "Development and maintenance of my.universalprofile.cloud Dapp. Maintainer of WebComponents library using lit & Typescript. React Native features on the UP wallet for iOS and Android.\nTech stack: ReactJS, ReactNative, Expo, NextJS, VueJS, NestJS, NodeJS, Typescript."
       },
       {
         "company": "Teya",
         "title": "Software Developer",
-        "years": "Apr 2023 - Oct 2023",
-        "description": "Worked in Onboarding app used by internal sales agents to onboard new customers. \nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
+        "years": "Apr 2023 – Oct 2023",
+        "description": "Onboarding app used by internal sales agents to onboard new customers.\nTech stack: ReactJS, NextJS, NestJS, Node.JS, Typescript."
       },
       {
         "company": "Stablehouse",
         "title": "Senior Software Developer",
-        "years": "Jun 2022 - Apr 2023",
-        "description": "Worked in different features in web application, mobile application and revamped public website. \nTech stack: ReactJS, ReactNative, Node.JS, C#, ASP.Net Core, .Net 7, NUnit, Typescript."
+        "years": "Jun 2022 – Apr 2023",
+        "description": "Web application, mobile application, and revamped public website.\nTech stack: ReactJS, ReactNative, Node.JS, C#, ASP.Net Core, .Net 7, Typescript."
       },
       {
-        "company": "Olx Group",
+        "company": "OLX Group",
         "title": "Senior Software Developer",
-        "years": "May 2021 - May 2022",
-        "description": "Working in muliple domains in the Motors Department. Worked in developing solutions promoting areas for New Revenues and engagement with Business Clients. \nTech stack: ReactJS, Typescript, NextJS, PHP."
+        "years": "May 2021 – May 2022",
+        "description": "Motors Department — new revenue and business client engagement solutions.\nTech stack: ReactJS, Typescript, NextJS, PHP."
       },
       {
         "company": "Rows",
         "title": "Senior Software Developer",
-        "years": "Sep 2019 - Mar 2021",
-        "description": "Development of a Web Application using JS, ReactJS, Mobx and GraphQL."
+        "years": "Sep 2019 – Mar 2021",
+        "description": "Development of a web application.\nTech stack: JS, ReactJS, Mobx, GraphQL."
       },
       {
-        "company": "Pear Tree Software LTD",
-        "title": "Founder - Senior Software Developer",
-        "years": "Feb 2016 - Aug 2019",
-        "description": "Founded Company to provide software consultancy.\nWorked as contractor in multiple companies like Activision, Demonware, AON, EasyTrip \nTech stack: C#, ReactJS, NodeJS, Asp.Net Core, Javascript, SQL Server & T-SQL"
+        "company": "Pear Tree Software",
+        "title": "Founder & Senior Software Developer",
+        "years": "Feb 2016 – Aug 2019",
+        "description": "Founded company providing software consultancy. Contractor at Activision, Demonware, AON, EasyTrip.\nTech stack: C#, ReactJS, NodeJS, Asp.Net Core, SQL Server."
       },
       {
         "company": "eMaint",
         "title": "Senior Application Developer",
-        "years": "Jan 2015 - Feb 2016",
-        "description": "Tech stack: C#, Asp.Net MVC5, Javascript, AngularJS, ReactJS, WebApi, SQL Server & T-SQL, Git"
+        "years": "Jan 2015 – Feb 2016",
+        "description": "Tech stack: C#, Asp.Net MVC5, AngularJS, ReactJS, WebApi, SQL Server."
       },
       {
         "company": "MobileAware",
-        "title": "Lead Windows Phone Developer ",
-        "years": "Jan 2014 - Dec 2014",
-        "description": "Develop Tesco Mobile app and build a UI Library to be reused in many projects. Tech stack: C#, MVVM, Windows Platform, Git"
+        "title": "Lead Windows Phone Developer",
+        "years": "Jan 2014 – Dec 2014",
+        "description": "Tesco Mobile app and UI Library.\nTech stack: C#, MVVM, Windows Platform."
       },
       {
         "company": "Pixalert",
         "title": "Contract Software Developer",
-        "years": "Jul 2013 - Dec 2013",
-        "description": "Tech stack: C#, Asp.Net MVC3, Javascript, WebApi, SQL Server & T-SQL, Git"
+        "years": "Jul 2013 – Dec 2013",
+        "description": "Tech stack: C#, Asp.Net MVC3, Javascript, WebApi, SQL Server."
       },
       {
         "company": "ISA",
         "title": "Software Developer",
-        "years": "Jun 2012 - Jul 2013",
-        "description": "Worked in the energy sector.\nTech stack: C#, Asp.Net MVC3, Silverlight, Javascript, WebApi, SQL, Server & T-SQL, Svn"
+        "years": "Jun 2012 – Jul 2013",
+        "description": "Energy sector.\nTech stack: C#, Asp.Net MVC3, Silverlight, Javascript."
       },
       {
         "company": "INFOS",
         "title": "Software Developer",
-        "years": "March 2011 - Jun 2012",
-        "description": "Worked in retail market.\nTech stack: C#, MVVM, WCF, WPF, SQL Server & T-SQL, Svn"
+        "years": "Mar 2011 – Jun 2012",
+        "description": "Retail market.\nTech stack: C#, MVVM, WCF, WPF, SQL Server."
       },
       {
         "company": "HIS",
         "title": "WPF Software Developer",
-        "years": "Sep 2009 - March 2011 ",
-        "description": "Worked on health software for hospitals and small health units to provide generation of prescriptions, patients reports and etc.\nTech stack: C#, MVVM, WCF, WPF, SQL Server & T-SQL, Svn"
+        "years": "Sep 2009 – Mar 2011",
+        "description": "Health software for hospitals and health units.\nTech stack: C#, MVVM, WCF, WPF, SQL Server."
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "90%"
-      },
-      {
-        "name": "JS",
-        "level": "90%"
-      },
-      {
-        "name": "Typescript",
-        "level": "80%"
-      },
-      {
-        "name": "Html",
-        "level": "80%"
-      },
-      {
-        "name": "CSS",
-        "level": "70%"
-      },
-      {
-        "name": "C#",
-        "level": "60%"
-      },
-      {
-        "name": ".Net",
-        "level": "60%"
-      }
+      { "name": "ReactJS", "level": "90%" },
+      { "name": "JavaScript", "level": "90%" },
+      { "name": "TypeScript", "level": "80%" },
+      { "name": "HTML / CSS", "level": "80%" },
+      { "name": "Node.js / NestJS", "level": "75%" },
+      { "name": "React Native", "level": "70%" },
+      { "name": "C# / .NET", "level": "65%" },
+      { "name": "NextJS", "level": "80%" }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Tesco Mobile",
-        "category": "Tesco Mobile - Windows Phone",
-        "image": "tesco.png",
-        "url": "https://www.microsoft.com/en-us/p/tesco-mobile/9wzdncrdm1b6"
-      },
-      {
-        "title": "Standvirtual",
-        "category": "#1 Website for selling and buying used and new cars in Portugal",
-        "image": "standvirtual_logo.svg",
-        "url": "https://www.standvirtual.com/"
+        "title": "Lukso – My Universal Profile",
+        "category": "Dapp connecting to the Lukso Blockchain to create and recover Universal Profiles on-chain.",
+        "url": "https://my.universalprofile.cloud/"
       },
       {
         "title": "Rows",
-        "category": "Rows - Web Application",
-        "image": "rows.svg",
+        "category": "Spreadsheet web application with a powerful formula engine.",
         "url": "https://www.rows.com/"
       },
       {
-        "title": "Easytrip",
-        "category": "A React based resume website template",
-        "image": "easytrip.png",
+        "title": "Standvirtual",
+        "category": "#1 website for buying and selling cars in Portugal.",
+        "url": "https://www.standvirtual.com/"
+      },
+      {
+        "title": "Stablehouse",
+        "category": "Crypto trading web & mobile application.",
+        "url": "https://stablehouse.io/"
+      },
+      {
+        "title": "Tesco Mobile",
+        "category": "Windows Phone app for Tesco Mobile UK.",
+        "url": "https://www.microsoft.com/en-us/p/tesco-mobile/9wzdncrdm1b6"
+      },
+      {
+        "title": "EasyTrip",
+        "category": "Toll payment and fleet management platform.",
         "url": "https://www.easytrip.ie/"
-      },
-      {
-        "title": "Cloogy web app",
-        "category": "Moved to cleanwatts now",
-        "image": "cloogy.png",
-        "url": "http://www.cloogy.com/en/"
-      },
-      {
-        "title": "Emaint web app",
-        "category": "Development of the CMMS application that would manage resources and work orders in a business.",
-        "image": "eMaintLogo.png",
-        "url": "http://www.emaint.com/cmms-features-benefits/"
-      },
-      {
-        "title": "Lukso - My Universal Profile",
-        "category": "Development of the Dapp that connects to the Lukso Blockchain and does transactions to create and recover Universal Profiles on the chain.",
-        "image": "https://miro.medium.com/v2/resize:fit:1400/1*SHhSd7xWCWLp4FRWGAt-kQ.png",
-        "url": "https://my.universalprofile.cloud/",
-        "isExternalImage": true
-      },
-      {
-        "title": "Lukso - Wallet",
-        "category": "Development of the Dapp that connects to the Lukso Blockchain and does transactions to check wallet balance and Digital assets.",
-        "image": "https://miro.medium.com/v2/resize:fit:1400/1*SHhSd7xWCWLp4FRWGAt-kQ.png",
-        "url": "https://wallet.universalprofile.cloud/",
-        "isExternalImage": true
       }
     ]
   }

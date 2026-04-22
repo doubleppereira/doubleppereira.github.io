@@ -3,7 +3,7 @@ declare global {
   interface SocialNetwork {
     url: string;
     name: string;
-    className: string;
+    className?: string;
   }
   interface Testimonial {
     description: string;
@@ -15,29 +15,25 @@ declare global {
     description: string;
     image: string;
     bio: string;
-    address: {
-      city: string;
-      state: string;
-      zip: string;
-      street: string;
-    };
-    phone: string;
     email: string;
-    resumedownload: string;
-    contactmessage: string;
+    phone?: string;
     github: string;
+    resumedownload: string;
+    calUsername: string;
+    calEvent?: string;
+    website?: string;
     social: SocialNetwork[];
   }
 
   interface Project {
     title: string;
     category: string;
-    image: string;
+    image?: string;
     url: string;
     isExternalImage?: boolean;
   }
 
-  interface Portfolio {
+  interface PortfolioInfo {
     projects: Project[];
   }
 
@@ -55,13 +51,12 @@ declare global {
     description: string;
   }
 
-  interface Skills {
+  interface Skill {
     name: string;
     level: string;
   }
 
   interface ResumeInfo {
-    skillmessage: string;
     education: Education[];
     work: Work[];
     skills: Skill[];
@@ -70,7 +65,11 @@ declare global {
   interface ResumeData {
     main: MainData;
     resume: ResumeInfo;
-    portfolio: Portfolio;
+    portfolio: PortfolioInfo;
     testimonials: Testimonial[];
+  }
+
+  interface Window {
+    _revealIo?: IntersectionObserver;
   }
 }
